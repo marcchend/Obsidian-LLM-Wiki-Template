@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Obsidian: local state and plugins (plugin data.json files can contain API keys)
+.obsidian/workspace*.json
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/graph.json
+.trash/
+
+# Obsidian Copilot
+_copilot/
+.copilot/
+
+# Local agent settings
+.claude/settings.local.json
+
+# Uncomment to keep your sources out of the repository
+# _raw/*
+# !_raw/.gitkeep
+# Sources/*
+# !Sources/.gitkeep
